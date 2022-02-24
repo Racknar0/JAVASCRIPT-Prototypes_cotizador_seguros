@@ -1,7 +1,7 @@
 Proyecto creado usando las tecnologías HTML, SCC, JAVASCRIPT poniendo en practica Prototypes de JS
 
 
-<h1 align="center">Proyecto GuitarLA LandPage</h1>
+<h1 align="center">ProtoTypes JS</h1>
 <h3 align="center">Proyecto creado usando las Prototypes JAVASCRIPT🌟.</h3>
 
 
